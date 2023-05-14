@@ -14,5 +14,7 @@ public class ArrayCreation{
         marks[2] = sc.nextInt();
         // 2. output 
         System.out.print(marks[0]+" , "+marks[1]+"  , "+marks[2]);
+        // Length of an array
+        System.out.print(marks.length+" Length of the array marks[]");
     }
 }
